@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Thomas/Documents/GitHub/LL-Arcade-Game/UE Project/FantasyCombat/Content/L_TestLevel.umap",
+				"C:/Users/Thomas/Documents/GitHub/LL-Arcade-Game/UE Project/FantasyCombat/Content/Levels/L_TestLevel.umap",
+				"C:/Users/Thomas/Documents/GitHub/LL-Arcade-Game/UE Project/FantasyCombat/Content/Player/BP_PlayerChar.uasset",
+				"C:/Users/Thomas/Documents/GitHub/LL-Arcade-Game/UE Project/FantasyCombat/Content/Input/IMC_PlayerIMC.uasset",
+				"C:/Users/Thomas/Documents/GitHub/LL-Arcade-Game/UE Project/FantasyCombat/Content/Input/NewInputAction.uasset",
+				"C:/Users/Thomas/Documents/GitHub/LL-Arcade-Game/UE Project/FantasyCombat/Content/Input/IA_Move.uasset",
+				"C:/Users/Thomas/Documents/GitHub/LL-Arcade-Game/UE Project/FantasyCombat/Content/Player/BP_PlayerGameMode.uasset",
+				"C:/Users/Thomas/Documents/GitHub/LL-Arcade-Game/UE Project/FantasyCombat/Content/Input/IA_Look.uasset",
+				"C:/Users/Thomas/Documents/GitHub/LL-Arcade-Game/UE Project/FantasyCombat/Content/TestLevel.umap"
+			]
+		}
+	]
+}
